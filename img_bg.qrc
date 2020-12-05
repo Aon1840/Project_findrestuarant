@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img_bg">
+    <file>images.png</file>
+    <file>icon_ui.jpg</file>
+    <file>IMG.gif</file>
+    <file>todlong.jpg</file>
+  </qresource>
+</RCC>
